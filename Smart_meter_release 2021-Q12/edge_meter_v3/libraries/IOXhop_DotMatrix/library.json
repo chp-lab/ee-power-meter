@@ -1,0 +1,24 @@
+{
+  "name": "IOXhop_DotMatrix",
+  "version": "1.0.0",
+  "keywords": "led, matrix, driver",
+  "description": "Very easy use Dot Matrix MAX7219 show text with animation",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ioxhop/IOXhop_DotMatrix.git"
+  },
+  "authors":
+  [
+    {
+        "name": "Sonthaya Nongnuch",
+        "url": "http://github.com/maxpromer",
+        "maintainer": true
+    }
+  ],
+  "export": {
+    "exclude": [ ]
+  },
+  "frameworks": "arduino",
+  "platforms": "arduino-esp32"
+}

@@ -1,0 +1,2 @@
+kit KEYWORD1
+getTempOnChip KEYWORD2
